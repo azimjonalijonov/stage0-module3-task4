@@ -10,5 +10,6 @@ public class IntRepresentation {
         System.out.println(c1);
         System.out.println(c2);
         System.out.println(c3);
+
     }
 }
